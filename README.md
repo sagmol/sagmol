@@ -9,9 +9,9 @@ Economist working on **macro-finance, development banking, and conflict-inflatio
 
 
 ### Focus
-- 🔭 Conflict-inflation dynamics in open and peripheral economies
+- Conflict-inflation dynamics in open and peripheral economies
 - 📈 Applied macro + time series 
-- 🏦 Macro-financial development & public institutions
+- Macro-financial development & public institutions
 
 ### Open to
 - 👯 I’m open to collaborating on macroeconomic analysis and data-driven projects.
